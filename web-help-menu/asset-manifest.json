@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-help-menu/static/css/main.f01cacce.chunk.css",
+    "main.js": "/web-help-menu/static/js/main.2d4b417d.chunk.js",
+    "main.js.map": "/web-help-menu/static/js/main.2d4b417d.chunk.js.map",
+    "runtime-main.js": "/web-help-menu/static/js/runtime-main.e1630046.js",
+    "runtime-main.js.map": "/web-help-menu/static/js/runtime-main.e1630046.js.map",
+    "static/js/2.a2905c18.chunk.js": "/web-help-menu/static/js/2.a2905c18.chunk.js",
+    "static/js/2.a2905c18.chunk.js.map": "/web-help-menu/static/js/2.a2905c18.chunk.js.map",
+    "static/js/3.c921123b.chunk.js": "/web-help-menu/static/js/3.c921123b.chunk.js",
+    "static/js/3.c921123b.chunk.js.map": "/web-help-menu/static/js/3.c921123b.chunk.js.map",
+    "index.html": "/web-help-menu/index.html",
+    "static/css/main.f01cacce.chunk.css.map": "/web-help-menu/static/css/main.f01cacce.chunk.css.map",
+    "static/js/2.a2905c18.chunk.js.LICENSE.txt": "/web-help-menu/static/js/2.a2905c18.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/web-help-menu/static/media/down-arrow.493ab8dc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1630046.js",
+    "static/js/2.a2905c18.chunk.js",
+    "static/css/main.f01cacce.chunk.css",
+    "static/js/main.2d4b417d.chunk.js"
+  ]
+}

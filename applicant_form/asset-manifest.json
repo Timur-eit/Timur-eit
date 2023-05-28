@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/applicant_form/static/css/main.17dea788.chunk.css",
+    "main.js": "/applicant_form/static/js/main.616a75d7.chunk.js",
+    "main.js.map": "/applicant_form/static/js/main.616a75d7.chunk.js.map",
+    "runtime-main.js": "/applicant_form/static/js/runtime-main.cb81f4d4.js",
+    "runtime-main.js.map": "/applicant_form/static/js/runtime-main.cb81f4d4.js.map",
+    "static/css/2.818011ed.chunk.css": "/applicant_form/static/css/2.818011ed.chunk.css",
+    "static/js/2.1c1a0aa8.chunk.js": "/applicant_form/static/js/2.1c1a0aa8.chunk.js",
+    "static/js/2.1c1a0aa8.chunk.js.map": "/applicant_form/static/js/2.1c1a0aa8.chunk.js.map",
+    "static/js/3.e028e7ae.chunk.js": "/applicant_form/static/js/3.e028e7ae.chunk.js",
+    "static/js/3.e028e7ae.chunk.js.map": "/applicant_form/static/js/3.e028e7ae.chunk.js.map",
+    "index.html": "/applicant_form/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/applicant_form/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.17dea788.chunk.css.map": "/applicant_form/static/css/main.17dea788.chunk.css.map",
+    "static/js/2.1c1a0aa8.chunk.js.LICENSE.txt": "/applicant_form/static/js/2.1c1a0aa8.chunk.js.LICENSE.txt",
+    "static/media/file_error.738e1dc8.svg": "/applicant_form/static/media/file_error.738e1dc8.svg",
+    "static/media/file_ready.9f3a9430.svg": "/applicant_form/static/media/file_ready.9f3a9430.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb81f4d4.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.1c1a0aa8.chunk.js",
+    "static/css/main.17dea788.chunk.css",
+    "static/js/main.616a75d7.chunk.js"
+  ]
+}
